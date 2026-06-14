@@ -174,3 +174,4 @@ def menu():
 
 cargar_inventario()
 menu()
+# Mejora futura para validación avanzada de datos
