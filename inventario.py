@@ -177,3 +177,4 @@ menu()
 # Mejora futura para validación avanzada de datos
 # Función futura para generación de reportes
 # Versión estable v1.0 preparada para entrega académica
+# Hotfix: corrección menor de documentación del menú principal
