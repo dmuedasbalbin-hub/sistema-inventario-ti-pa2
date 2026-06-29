@@ -1,0 +1,16 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Caché de pytest
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos temporales de VS Code
+.vscode/
+
+# Base de datos de pruebas (si la usamos después)
+test.db
